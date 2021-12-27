@@ -1,3 +1,10 @@
+images/combination.PNG
+images/oversample.PNG
+images/randomForestClassifier.PNG
+images/smote_oversample.PNG
+undersample.PNG
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
